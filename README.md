@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://raw.githubusercontent.com/ishivaay/ishivaay/main/assests/Banner1.png">
+<img align="center" width="100%" src="https://raw.githubusercontent.com/ishivaay/ishivaay/main/banner.png">
 
 <div width="200px"><h3 align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shivam Sharma </h3></div>
 <h1 align="left">Full Stack Developer</h1>
